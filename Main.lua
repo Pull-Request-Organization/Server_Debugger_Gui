@@ -1,4 +1,3 @@
---SynapseX (ONLY)
 local Vars = {}
 local ModMenu = {}
 ModMenu.__index = ModMenu
