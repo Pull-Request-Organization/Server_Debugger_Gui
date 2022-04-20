@@ -405,8 +405,6 @@ local function EARL_fake_script() -- Server.Main
 		end)
 	end
 	
-	--# Finished 6/7
-	
 	Options:WaitForChild("CopyGame").MouseButton1Click:Connect(function()
 		CopyGameFiles()
 	end)
